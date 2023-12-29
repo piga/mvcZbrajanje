@@ -1,0 +1,1 @@
+Download > put it in correct folder > use Apache and PHP to start index.html
